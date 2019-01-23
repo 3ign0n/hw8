@@ -5,5 +5,7 @@ Day1の宿題データ:retail.txt
 ステップ2 正判別率(真を真、偽を偽)と誤判別率(真を偽、偽を真)を求める
 
 
+http://nassy-hamar.jp/wordpress/2018/04/14/%E3%83%AD%E3%82%B8%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E5%9B%9E%E5%B8%B0%EF%BC%9A%E6%A8%99%E6%BA%96%E8%AA%A4%E5%B7%AE%E3%81%8C%E7%95%B0%E5%B8%B8%E3%81%AB%E5%A4%A7%E3%81%8D%E3%81%84%E5%A0%B4/
+
 http://nshi.jp/contents/stat/firthic/
 
